@@ -31,7 +31,7 @@ In particular, I am interested in developing AI algorithms for smart autonomous 
 
 **Academic Service** 
 
-I’m a co-organizer of the [Long-term Human Motion Prediction series of workshops](https://motionpredictionicra2021.github.io/){:target="\_blank"}, organizer and associate editor of the [Special Issue on Long-term Human Motion Prediction on the IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l/special-issues/cfp-special-long-term-human-motion-prediction){:target="\_blank"}, associate editor for ICRA 2021, and a regular PC/reviewer for: ICRA, IROS, RA-L, TRO, AAAI, and various ML/AI workshops.
+I’m a co-organizer of the [Long-term Human Motion Prediction series of workshops](https://motionpredictionicra2021.github.io/){:target="\_blank"}, organizer and associate editor of the [Special Issue on Long-term Human Motion Prediction on the IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l/special-issues/cfp-special-long-term-human-motion-prediction){:target="\_blank"}, served as associate editor for ICRA and PC/reviewer for: ICRA, IROS, RA-L, TRO, AAAI, and various ML/AI workshops.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
