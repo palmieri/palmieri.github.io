@@ -6,7 +6,7 @@ description: #<a href="#">Robert Bosch GmbH, Corporate Research</a>. Advanced Au
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_cropped.png
   address: #>
     #<p>Stuttgart</p>
     #<p>Germany</p>
