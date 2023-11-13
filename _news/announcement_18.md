@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-We enjoyed the discussions at IROS 2023 about our latest research projects! Our novel approaches on semantic-aware navigation and human-aware task and behavior planning got quite positive feedbacks. Fore more details check the publications section.
+We enjoyed the discussions at IROS 2023 about our latest research projects! Our novel approaches on semantic-aware navigation, multi-modal model predictive control and human-aware task and behavior planning got quite positive feedback. Fore more details check the publications section.
