@@ -18,15 +18,15 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-I am a research scientist at [Robert Bosch GmbH Corporate Research](https://www.bosch.com/research/){:target="\_blank"}, where I work on developing novel decision making systems for robot navigation in crowded and dynamic environments.
+I am a group leader and research scientist at [Robert Bosch GmbH Corporate Research](https://www.bosch.com/research/){:target="\_blank"}, where I work on artificial intelligence methods that enable autonomous agents, such as autonomous driving cars and robots, to learn and generate complex behaviors.
 
-I earned my PhD with focus on robot motion planning, control and learning at [Uni Freiburg](https://www.tf.uni-freiburg.de/de){:target="\_blank"}, [Social Robotics Laboratory](http://srl.informatik.uni-freiburg.de/){:target="\_blank"}. I obtained my Master and Bachelor degrees in computer engineering at the [Università degli Studi della Campania, Luigi Vanvitelli](https://international.unicampania.it/index.php/en/){:target="\_blank"}. 
+I earned my PhD with focus on robot planning, control and learning at [Uni Freiburg](https://www.tf.uni-freiburg.de/de){:target="\_blank"}, [Social Robotics Laboratory](http://srl.informatik.uni-freiburg.de/){:target="\_blank"}. I obtained my Master and Bachelor degrees in computer engineering at the [Università degli Studi della Campania, Luigi Vanvitelli](https://international.unicampania.it/index.php/en/){:target="\_blank"}. 
 
 **Research Interests**
 
 My wish is to commit and to contribute to the technological, social and economical progress of our society, by developing novel AI and robotics technologies  that can improve and be integral part of our daily life. 
 
-In particular, I am interested in developing AI algorithms for smart autonomous decision making under uncertainty for single and multi-agent systems, such as: hybrid systems of learning-planning-control, MPC and numerical-optimization techniques, kinodynamic motion planning in densely crowded and dynamic environments, human motion predictions and predictive planning, probabilistic modeling and inference, deep learning.
+In particular, I am interested in developing AI algorithms for smart autonomous decision making under uncertainty for single and multi-agent systems, such as: behavior learning and reinforcement learning, hybrid systems of learning-planning-control, MPC and numerical-optimization techniques, kinodynamic motion planning in densely crowded and dynamic environments, human motion predictions and predictive planning, probabilistic modeling and inference, deep learning.
 
 
 **Academic Service** 

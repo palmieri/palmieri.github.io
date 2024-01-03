@@ -17,7 +17,7 @@ The EU project DARKO sets out to realize a new generation of agile production ro
     </div>
 </div>
 <div class="caption">
-    ILIAD project
+    DARKO project
 </div>
 
 <div class="row">
