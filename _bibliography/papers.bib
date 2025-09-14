@@ -16,6 +16,35 @@
 
 }
 
+% DELTA
+@inproceedings{liu2025delta,
+  title={Delta: Decomposed efficient long-term robot task planning using large language models},
+  author={Liu, Yuchen and Palmieri, Luigi and Koch, Sebastian and Georgievski, Ilche and Aiello, Marco},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={10995--11001},
+  selected={true}, 
+  img={/assets/img/delta_ICRA2025.png},
+  year={2025},
+  abbr={ICRA},
+  abstract={Long-term task planning is essential for mobile robots to achieve high-level goals in complex environments. Recent advances in large language models (LLMs) have shown promise in generating coherent and context-aware plans for robots. However, LLMs often struggle with long-term planning due to their limited context window and lack of domain-specific knowledge. In this paper, we present Delta, a novel framework that decomposes long-term task planning into manageable sub-tasks using LLMs. Delta leverages a hierarchical approach, where high-level goals are broken down into sub-goals, which are then further decomposed into executable actions. This decomposition allows Delta to effectively utilize LLMs for planning while mitigating their limitations. We evaluate Delta in a series of simulated and real-world experiments, demonstrating its ability to generate efficient and effective long-term plans for mobile robots. Our results show that Delta outperforms existing approaches in terms of plan quality, execution success rate, and adaptability to dynamic environments.},
+  pdf       ={https://ieeexplore.ieee.org/abstract/document/11127838}, 
+  organization={IEEE}
+}
+
+% GraphEQA
+@article{saxena2024grapheqa,
+  title={Grapheqa: Using 3d semantic scene graphs for real-time embodied question answering},
+  author={Saxena, Saumya and Buchanan, Blake and Paxton, Chris and Chen, Bingqing and Vaskevicius, Narunas and Palmieri, Luigi and Francis, Jonathan and Kroemer, Oliver},
+  journal={arXiv preprint arXiv:2412.14480},
+  volume={3},
+  year={2025},
+  selected={true},
+  abbr={CORL},
+  img={/assets/img/grapheqa_CORL2025.png},
+  abstract={Embodied question answering (EQA) is a task that requires an agent to navigate and interact with its environment to answer a question. In this paper, we present Grapheqa, a novel approach that leverages 3D semantic scene graphs to enhance the agent's understanding of its surroundings and improve its question-answering capabilities. Our method constructs a dynamic 3D semantic scene graph that captures the spatial relationships and attributes of objects in the environment. This graph is then used to inform the agent's navigation and interaction strategies, allowing it to efficiently gather information relevant to the posed question. We evaluate Grapheqa on a benchmark EQA dataset and demonstrate that our approach outperforms existing methods in terms of accuracy and efficiency. Our results highlight the importance of incorporating structured environmental representations for effective embodied question answering.},
+  pdf={https://arxiv.org/pdf/2412.14480.pdf}
+}
+
 @article{rudenko2020human,
   title={Human motion trajectory prediction: A survey},
   author={Rudenko, Andrey and Palmieri, Luigi and Herman, Michael and Kitani, Kris M and Gavrila, Dariu M and Arras, Kai O},
@@ -64,9 +93,7 @@
   abbr={ICRA},
   abstract={The distance metric is a key component in RRT-based motion planning that deeply affects coverage of the state space, path quality and planning time. With the goal to speed up planning time, we introduce a learning approach to approximate the distance metric for RRT-based planners. By exploiting a novel steer function which solves the two-point boundary value problem for wheeled mobile robots, we train a simple nonlinear parametric model with constant-time inference that is shown to predict distances accurately in terms of regression and ranking performance. In an extensive analysis we compare our approach to an Euclidean distance baseline, consider four alternative regression models and study the impact of domain-specific feature expansion. The learning approach is shown to be faster in planning time by several factors at negligible loss of path quality.},
   pdf={https://ieeexplore.ieee.org/document/7139246},
-  img={/assets/img/palmieriICRA15.png},
-  selected={true}
-
+  img={/assets/img/palmieriICRA15.png}
 }
 
 @inproceedings{rudenko2018joint,
@@ -287,9 +314,7 @@
   img={/assets/img/dispertio.png},
   abstract={A key challenge in robotics is the efficient generation of optimal robot motion with safety guarantees in cluttered environments. Recently, deterministic optimal sampling-based motion planners have been shown to achieve good performance towards this end, in particular in terms of planning efficiency, final solution cost, quality guarantees as well as non-probabilistic completeness. Yet their application is still limited to relatively simple systems (i.e., linear, holonomic, Euclidean state spaces). In this work, we extend this technique to the class of symmetric and optimal driftless systems by presenting Dispertio, an offline dispersion optimization technique for computing sampling sets, aware of differential constraints, for sampling-based robot motion planning. We prove that the approach, when combined with PRM*, is deterministically complete and retains asymptotic optimality. Furthermore, in our experiments we show that the proposed deterministic sampling technique outperforms several baselines and alternative methods in terms of planning efficiency and solution cost. },
   pdf={https://ieeexplore.ieee.org/document/8928532},
-  publisher={IEEE},
-      selected={true}
-
+  publisher={IEEE}
 }
 
 @article{kucner2023survey,
