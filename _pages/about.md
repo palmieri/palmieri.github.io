@@ -24,9 +24,14 @@ I earned my PhD with focus on robot planning, control and learning at [Uni Freib
 
 **Research Interests**
 
-My wish is to commit and to contribute to the technological, social and economical progress of our society, by developing novel AI and robotics technologies  that can improve and be integral part of our daily life. 
 
-In particular, I am interested in developing AI algorithms for smart autonomous decision making under uncertainty for single and multi-agent systems, such as: human behavior, activitiy and motion prediction, also using vision-language models; behavior learning in dynamic environments, reinforcement learning, hybrid systems of learning-planning-control.
+My mission is to drive societal and economic progress by developing Embodied AI solutions that are intelligent, safe, and inherently socially aware. I believe that grounding AI in the physical world is the key to creating systems that seamlessly assist humans in their daily lives. My work focuses on the intersection of multi-modal perception and complex decision-making—creating "brains" for autonomous agents that can navigate the nuances of human interaction.
+
+In my role as Group Manager, I am dedicated to leading talented teams to translate this vision into reality. I focus on developing innovative AI frameworks for single and multi-agent systems (across different domains, e.g. robotics, automated driving solutions, IoT), prioritizing socially-aware motion prediction, Vision-Language Models, and hybrid learning-planning architectures. By combining strategic leadership with technical excellence, I aim to deliver AI technologies that solve real-world challenges and improve our daily lives.
+
+<!--  My wish is to commit and to contribute to the technological, social and economical progress of our society, by developing novel AI and robotics technologies  that can improve and be integral part of our daily life. 
+
+In particular, I am interested in developing AI algorithms for smart autonomous decision making under uncertainty for single and multi-agent systems, such as: human behavior, activitiy and motion prediction, also using vision-language models; behavior learning in dynamic environments, reinforcement learning, hybrid systems of learning-planning-control.-->
 
 
 **Academic Service** 
